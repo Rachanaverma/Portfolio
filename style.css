@@ -7,7 +7,7 @@
 body{
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #09053e, #53124e);
-    color: #fff;
+    color: #f5eaea;
     scroll-behavior: smooth;
 }
 
@@ -60,7 +60,7 @@ body{
 }
 .hero-content h2{
     font-size:10rem;
-    color:#ff8bb6;
+    color:#98d7ec;
     animation-duration: 1.0s;
 }
 
@@ -71,7 +71,7 @@ body{
 
 .cta{
     padding:12px 25px;
-    background:#ff8bb6;
+    background:#ebc2d1;
     color:black;
     border-radius:8px;
     font-weight:bold;
@@ -79,7 +79,7 @@ body{
 }
 .cta2{
     padding:12px 25px;
-    background:#8ddfba;
+    background:#b0c0e1;
     color:black;
     border-radius:8px;
     font-weight:bold;
@@ -132,7 +132,7 @@ body{
 }
 
 .card{
-    background:#ffffff15;
+    background:#f8f2f715;
     backdrop-filter:blur(8px);
     padding:20px;
     border-radius:15px;
@@ -163,7 +163,7 @@ body{
 }
 .contact-form button{
     padding:12px;
-    background:#8ddfba;
+    background:#efc89e;
     color:black;
     border-radius:8px;
     font-weight:bold;
